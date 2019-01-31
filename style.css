@@ -6,3 +6,8 @@ h1{
   font-size: 200%;
   color: navy;
 }
+
+h1.meme{
+  font-size: 800%;
+  color: red;
+}
