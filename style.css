@@ -3,11 +3,11 @@ body {
 }
 
 h1{
-  font-size: 200%;
+  font-size: 40px;
   color: navy;
 }
 
 h1.meme{
-  font-size: 800%;
-  color: red;
+  font-size: 200px;
+  
 }
