@@ -33,3 +33,13 @@ ul.a {
   text-align: left;
 
 }
+
+a:link {
+  color: powderblue;
+}
+a:visited {
+  color: navy;
+}
+a:hover{
+  color: Lime;
+}
