@@ -30,11 +30,11 @@ h2{
   display:flex;
   margin:0;
   background-color: Fuchsia;
+  justify-content: flex-end;
 }
 
 .header div {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  justify-content: flex-end;
   font-size: 50px;
   display:block;
   padding: 10px;
