@@ -1,18 +1,18 @@
 
 body {
-  background-image: url("https://coubsecure-s.akamaihd.net/get/b101/p/coub/simple/cw_timeline_pic/a8a9bfc7327/14bf1c83b2810a40e63eb/big_1521971492_image.jpg");
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/yI9FRzo/videoblocks-fly-and-spin-through-space-less-stars-no-clouds-or-space-dust-only-stars-and-open-black-space-transparent-background-alpha-channel-embedded-with-4k-png-file_bsmzhyxhjl_thumbnail-full01.png");
   background-size: cover;
 }
 
-h1{
+p{
   font-size: 50px;
-  color: Fuchsia;
+  color: white;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-h2{
-  font-size: 200px;
+h1{
+  font-size: 100px;
   font-weight: bold;
   font-family: "Comic Sans MS", cursive, sans-serif;
-  color: red;
+  color: Fuchsia;
 }
