@@ -20,7 +20,7 @@ h1{
 }
 
 h2{
-  font-size: 25px;
+  font-size: 50px;
   color:white;
   text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
@@ -55,6 +55,8 @@ h2{
  font-size: 40px;
  font-family: "Comic Sans MS", cursive, sans-serif;
  margin: 4px 2px;
+ margin-left: auto;
+ margin-right: auto;
  cursor: pointer;
 }
 
@@ -77,6 +79,7 @@ ul.a {
   font-family: "Comic Sans MS", cursive, sans-serif;
   color:white;
   text-align: center;
+  font-size: 40px;
 
 }
 
