@@ -18,3 +18,18 @@ h1{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: Fuchsia;
 }
+
+h2{
+  font-size: 25px;
+  color:white;
+  text-align: left;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul.a {
+  list-style-type: circle;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color:white;
+  text-align: left;
+
+}
