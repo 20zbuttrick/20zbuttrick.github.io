@@ -26,6 +26,22 @@ h2{
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+.header {
+  display:flex;
+  margin:0;
+  background-color: Fuchsia;
+}
+
+.header div {
+  font-color:black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  justify-content: flex-end;
+}
+
+.header hover {
+  font-color: Lime;
+}
+
 ul.a {
   list-style-type: circle;
   font-family: "Comic Sans MS", cursive, sans-serif;
@@ -35,7 +51,7 @@ ul.a {
 }
 
 a:link {
-  color: powderblue;
+  color: aqua;
 }
 a:visited {
   color: navy;
