@@ -33,9 +33,11 @@ h2{
 }
 
 .header div {
-  font-color:black;
   font-family: "Comic Sans MS", cursive, sans-serif;
   justify-content: flex-end;
+  font-size: 50px;
+  display:block;
+  padding: 10px;
 }
 
 .header hover {
