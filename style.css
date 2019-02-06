@@ -7,11 +7,13 @@ body {
 p{
   font-size: 50px;
   color: white;
+  text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 h1{
   font-size: 100px;
+  text-align: center;
   font-weight: bold;
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: Fuchsia;
